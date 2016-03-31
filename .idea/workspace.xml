@@ -125,8 +125,8 @@
       <file leaf-file-name="CoolWeatherDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/model/CoolWeatherDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48598132">
-              <caret line="121" column="117" selection-start-line="121" selection-start-column="117" selection-end-line="121" selection-end-column="117" />
+            <state vertical-scroll-proportion="0.6962617">
+              <caret line="130" column="33" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1521#1531#0" expanded="true" />
@@ -2178,8 +2178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/model/CoolWeatherDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48598132">
-          <caret line="121" column="117" selection-start-line="121" selection-start-column="117" selection-end-line="121" selection-end-column="117" />
+        <state vertical-scroll-proportion="0.6962617">
+          <caret line="130" column="33" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1521#1531#0" expanded="true" />
